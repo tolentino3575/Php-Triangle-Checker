@@ -1,0 +1,13 @@
+.hero{
+  background: url('https://images.unsplash.com/photo-1444968544125-87b96d1bf911?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=983d8243d89ebb1df5af694f203fc458') center no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+
+form {
+  border: 2px solid grey;
+  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
